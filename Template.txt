@@ -1,0 +1,19 @@
+~~NOTOC~~
+
+====== {VINAME} ======
+{DESCRIPTION}
+
+<<IMAGE>>
+
+===Inputs===
+----
+{INPUTS}
+
+===Outputs===
+----
+{OUTPUTS}
+
+=== Related Links ===
+----
+
+  * [[learn:libraries:linx:reference:labview:start]]
